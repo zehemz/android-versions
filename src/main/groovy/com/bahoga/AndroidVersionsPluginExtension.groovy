@@ -3,7 +3,7 @@ package com.bahoga
 class AndroidVersionsPluginExtension {
     Integer androidCompileSdkVersion = 27
     Integer androidTargetSdkVersion = 27
-    String androidBuildToolsVersion = '26.1.1'
+    String androidBuildToolsVersion = '26.0.2'
     Integer androidMinSdkVersion = 15
     String androidAppCompatVersion = '27.0.2'
     String androidGooglePlayServicesVersion = '10.0.0'
