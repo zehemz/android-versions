@@ -16,5 +16,5 @@ class AndroidVersionsPluginExtension {
     String javaxInjectVersion = '1'
     String androidConstraintLayoutVersion = '1.0.2'
     String okHttpVersion = '3.6.0'
-    String universalLoaderVersion = '1.9.4'
+    String glideVersion = '4.3.1'
 }
